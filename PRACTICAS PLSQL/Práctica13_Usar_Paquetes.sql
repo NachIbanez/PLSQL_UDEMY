@@ -1,0 +1,8 @@
+SET SERVEROUTPUT ON
+
+DECLARE
+BEGIN
+    --REGIONES.ALTA_REGION(9,'Indonesia');
+    --REGIONES.BAJA_REGION(9,'Indonesia');
+    --REGIONES.MOD_REGION(8,'hola','Teyvat');
+END;
